@@ -1,5 +1,5 @@
 # AC2-ramosSNKRS (PROJETO EM ANDAMENTO)
-projeto Java onde simula o sistema de uma loja de tenis, onde o usuario pode visualizar os produtos disponiveis da loja, enquanto o administrador pode fazer atualizações como cadastro e edição dos produtos e clientes.
+projeto Java onde simula o sistema de uma loja de tenis, onde o usuario pode visualizar os produtos disponiveis da loja, enquanto o administrador conta com algumas funcionalidades como autenticação de usuário (login e senha) e cadastro de clientes, e também com a publicação e edição de novos produtos na loja.
 
 ### 📋 Pré-requisitos
 
